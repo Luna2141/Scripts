@@ -1,0 +1,16 @@
+-- Functions to add --
+
+[] Add total repair count for each grade
+[] Add total Parts count for each grade
+
+--- Bugs to fix ---
+
+[] fix log date formating
+    - set dates to show right to left
+[] fix cell spacing for column D
+    - shows "Repair coun" currently
+
+ --- Bugs Fixed ---
+
+ [x] Fix "Repaired part totals"
+     - not displaying new parts added to damage sheet.
